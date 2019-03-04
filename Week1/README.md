@@ -92,4 +92,4 @@ After you installed vscode, also install the following plugins
 >Visual studio is the default text editor we use in the course. We expect you to use this editor through the entire course.
 
 ### Curriculum
-Don't forget to take a look at the [HackYourFuture curriculum](https://github.com/HackYourFuture/curriculum). Go through it and make sure you have an idea of what you will learn at HackYourFuture :muscle:
+Don't forget to take a look at the [FooCoding curriculum](https://github.com/FooCoding/curriculum). Go through it and make sure you have an idea of what you will learn at FooCoding :muscle:

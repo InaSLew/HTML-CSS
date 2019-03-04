@@ -23,7 +23,7 @@ If you have Linux installed on your laptop or you have a MACbook, then you donâ€
 
 ### Read about CLI
 
-Go to the [CLI](https://github.com/HackYourFuture/CommandLine/) repoistory to prepare for you first commandline class!
+Go to the [CLI](https://github.com/FooCoding/CommandLine/) repository to prepare for you first commandline class!
 
 ### Here are resources that we like you to read as a preparation for the coming lecture:
 - Start reading about media queries here: [Introduction to Media Queries](https://varvy.com/mobile/media-queries.html). 

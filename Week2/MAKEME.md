@@ -24,7 +24,7 @@
 
 _Deadline Tuesday_
 
-> We covered a bit of command line usage in the first class and got a program running which is great. If you need a refresher for the command line please have a look here: https://github.com/HackYourFuture/CommandLine/blob/master/Week1/Lecture.md
+> We covered a bit of command line usage in the first class and got a program running which is great. If you need a refresher for the command line please have a look here: https://github.com/FooCoding/CommandLine/blob/master/Week1/Lecture.md
 
 ```
 1. Research how to create a hidden file and how to display it using ls command.
@@ -79,7 +79,7 @@ _Deadline Saturday_
 > Use the command line to create a directory "week2" inside your hyf-html-css directory. There should already be a week1 inside that contains your homework of last week.
 
 - Grids exercise
-  - Download the HTML and images in the folder Homework 2 ([or click this link to download](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/HackYourFuture/HTML-CSS/tree/master/Week2/Homework2))
+  - Download the HTML and images in the folder Homework 2 ([or click this link to download](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/FooCoding/HTML-CSS/tree/master/Week2/Homework2))
   - You are going to write the CSS for this page
   - You are not allowed to change the HTML
   - The page contains two grids: the first one should work using floats, the second using flex box. Be careful not to mix the two!
